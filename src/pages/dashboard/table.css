@@ -1,0 +1,26 @@
+.App {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+    
+  table {
+    width: 800px;
+    height: 200px;
+    border-collapse: collapse;
+  }
+    
+  th {
+    background-color: #15AAD9;
+    border-right: 1px solid white;
+
+  }
+    
+  td {
+    text-align: center;
+    background-color: #7EE0FF;
+    border-right: 1px solid white;
+
+  }

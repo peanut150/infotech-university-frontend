@@ -1,0 +1,40 @@
+.longbtn 
+{
+    display:"block";
+    width: 390px;
+    height: 41px;
+    border:0px;
+    background: linear-gradient(#18ABDA, #49C5EC, #7EE0FF);
+    border-radius: 5px;
+    box-shadow: 5px 10px 15px #A9E1F2;
+    color: white;
+    margin-bottom: 25px;
+}
+.backbtn
+{
+    display:"block";
+    height: 41px;
+    width: 90px;
+    border:0px;
+    background: linear-gradient(#18ABDA, #49C5EC, #7EE0FF);
+    border-radius:5px;
+    box-shadow:5px 10px 15px #A9E1F2;
+    color: white;
+    margin-left: 100px;
+    font-weight: bold;
+
+
+}
+.nextbtn
+{
+    display:"block";
+    height: 41px;
+    width: 90px;
+    border:0px;
+    background: linear-gradient(#18ABDA, #49C5EC, #7EE0FF);
+    border-radius:5px;
+    box-shadow:5px 10px 15px #A9E1F2;
+    color: white;
+    margin-right: 100px;
+    font-weight: bold;
+}
